@@ -4,8 +4,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/DigantaChauduri06/week2-GL1-CipherSchools/database"
-	"github.com/DigantaChauduri06/week2-GL1-CipherSchools/models"
+	"github.com/Aaryan-palit/week2-GL1-CipherSchools/database"
+	"github.com/Aaryan-palit/week2-GL1-CipherSchools/models"
 	"github.com/gin-gonic/gin"
 	"gorm.io/gorm"
 )
